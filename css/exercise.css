@@ -1,0 +1,9 @@
+.exercise {
+    margin-top: 3vh;
+}
+
+.exercise video {
+    display: block;
+    margin: auto;
+    margin-top: 2vh;
+}
